@@ -5,6 +5,10 @@ import com.yusys.bbs.service.UserService;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.data.redis.core.RedisTemplate;
 import org.springframework.stereotype.Controller;
+import org.springframework.web.bind.annotation.GetMapping;
+import org.springframework.web.bind.annotation.RequestMapping;
+import org.springframework.web.bind.annotation.RequestParam;
+import org.springframework.web.bind.annotation.ResponseBody;
 
 import javax.annotation.Resource;
 import javax.servlet.http.HttpServletRequest;
@@ -55,5 +59,17 @@ public class UserController {
             return result;
         }
 
+    }
+
+    //前往登录页面
+    @GetMapping(value = {"/login"})
+    public String toLogin() {
+        return "login";
+    }
+
+    //前往注册页面
+    @RequestMapping("/register")
+    public String toRegister() {
+        return "register";
     }
 }

@@ -13,12 +13,13 @@ spring:
       test-on-borrow: true
       driver-class-name: com.mysql.cj.jdbc.Driver
 
-#  thymeleaf:
-#    cache: false
-#    mode: LEGACYHTML5
-#    encoding: UTF-8
-#    servlet:
-#      content-type: text/html
+  thymeleaf:
+    cache: false
+    #mode: LEGACYHTML5
+    mode: HTML5
+    encoding: UTF-8
+    servlet:
+      content-type: text/html
   redis:
     lettuce:
       pool:
