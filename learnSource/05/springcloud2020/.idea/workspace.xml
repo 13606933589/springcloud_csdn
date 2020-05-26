@@ -42,12 +42,42 @@
       <change beforePath="$PROJECT_DIR$/../../01/springcloud-order2/target/classes/com/yusys/order/properties/OrderProperties.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/springcloud-order2/target/classes/com/yusys/order/service/ItemService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/springcloud-order2/target/classes/com/yusys/order/service/OrderService.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/OrderMain80.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/config/ApplicationContextConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/java/com/atguigu/springcloud/controller/OrderController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/META-INF/cloud-consumer-order80.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/OrderMain80.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-consumer-order80/target/classes/com/atguigu/springcloud/controller/OrderController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/src/main/java/com/atguigu/springcloud/PaymentMain8001.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/PaymentMain8001.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/src/main/java/com/atguigu/springcloud/dao/PaymentDao.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/dao/PaymentDao.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/PaymentService.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/src/main/java/com/atguigu/springcloud/service/impl/PaymentServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/service/impl/PaymentServiceImpl.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/src/main/resources/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/mapper/PaymentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/target/classes/META-INF/cloud-provider-payment-8001.kotlin_module" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/target/classes/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/src/main/resources/application.yml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/target/classes/com/atguigu/springcloud/PaymentMain8001.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/PaymentMain8001.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/controller/PaymentController.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/target/classes/com/atguigu/springcloud/dao/PaymentDao.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/dao/PaymentDao.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/target/classes/com/atguigu/springcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/service/PaymentService.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/target/classes/com/atguigu/springcloud/service/impl/PaymentServiceImpl.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/com/atguigu/springcloud/service/impl/PaymentServiceImpl.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cloud-provider-payment-8001/target/classes/mapper/PaymentMapper.xml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8001/target/classes/mapper/PaymentMapper.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CompilerWorkspaceConfiguration">
+    <option name="MAKE_PROJECT_ON_SAVE" value="true" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -59,6 +89,9 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../.." />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/cloud-provider-payment8001/src/main/java/com/atguigu/springcloud/controller/PaymentController.java" root0="SKIP_INSPECTION" />
   </component>
   <component name="MavenImportPreferences">
     <option name="importingSettings">
@@ -78,22 +111,27 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-api-commons/src/main/java/com.atguigu.springcloud" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-consumerzk-order80/src/main" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
-    <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="fileTemplates" />
+    <property name="project.structure.side.proportion" value="0.3494253" />
+    <property name="settings.editor.selected.configurable" value="project.propCompiler" />
+    <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-api-commons\src\main\java\com.atguigu.springcloud" />
-      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-api-commons\src\main\java" />
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-consumerzk-order80\src\main" />
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-consumerzk-order80\src\main\resources" />
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-provider-payment8002\src" />
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-eureka-server7002\src" />
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.atguigu.springcloud.entities" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-eureka-server7001\src\main\java" />
       <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-provider-payment-8001\src\main\resources\mapper" />
     </key>
   </component>
@@ -114,7 +152,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.PaymentMain8001">
+  <component name="RunManager" selected="Spring Boot.PaymentMain8002">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -134,15 +172,22 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+    <configuration name="EurekaMain7001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-eureka-server7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="OrderMain80 (1)" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-consumerzk-order80" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.atguigu.springcloud.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.EurekaMain7001" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderMain80" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -161,7 +206,7 @@
       </method>
     </configuration>
     <configuration name="PaymentMain8001" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-provider-payment-8001" />
+      <module name="cloud-provider-payment8001" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="com.atguigu.springcloud.*" />
@@ -169,6 +214,32 @@
         </pattern>
       </extension>
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8001" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8002" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8002" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8002" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="PaymentMain8004" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-provider-payment8004" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.PaymentMain8004" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -194,8 +265,10 @@
     <recent_temporary>
       <list>
         <item itemvalue="Spring Boot.OrderMain80" />
+        <item itemvalue="Spring Boot.PaymentMain8002" />
         <item itemvalue="Spring Boot.PaymentMain8001" />
-        <item itemvalue="Spring Boot.EurekaMain7001" />
+        <item itemvalue="Spring Boot.OrderMain80 (1)" />
+        <item itemvalue="Spring Boot.PaymentMain8004" />
       </list>
     </recent_temporary>
   </component>
@@ -216,7 +289,11 @@
       <workItem from="1590375852404" duration="1008000" />
       <workItem from="1590376900908" duration="4148000" />
       <workItem from="1590388816015" duration="1772000" />
-      <workItem from="1590390673395" duration="7221000" />
+      <workItem from="1590390673395" duration="7910000" />
+      <workItem from="1590455129630" duration="671000" />
+      <workItem from="1590457299767" duration="7636000" />
+      <workItem from="1590475544415" duration="43000" />
+      <workItem from="1590475627296" duration="13252000" />
     </task>
     <servers />
   </component>
