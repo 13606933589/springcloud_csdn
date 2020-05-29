@@ -6,7 +6,6 @@
 public class Test {
     @org.junit.Test
     public void test() {
-        String a ="123asW是l;否as";
-        System.out.println(a.toUpperCase());
+
     }
 }
