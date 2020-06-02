@@ -42,11 +42,6 @@
       <change beforePath="$PROJECT_DIR$/../../01/springcloud-order2/target/classes/com/yusys/order/properties/OrderProperties.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/springcloud-order2/target/classes/com/yusys/order/service/ItemService.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/../../01/springcloud-order2/target/classes/com/yusys/order/service/OrderService.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-eureka-server7001/src/main/resources/application.yml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/atguigu/springcloud/service/PaymentService.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-hystrix-payment8001/target/classes/com/atguigu/springcloud/service/PaymentService.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/src/test/java/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/src/test/java/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/atguigu/springcloud/controller/PaymentController.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/classes/com/atguigu/springcloud/controller/PaymentController.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cloud-provider-payment8002/target/test-classes/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/cloud-provider-payment8002/target/test-classes/Test.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -57,6 +52,9 @@
   </component>
   <component name="CompilerWorkspaceConfiguration">
     <option name="MAKE_PROJECT_ON_SAVE" value="true" />
+  </component>
+  <component name="FavoritesManager">
+    <favorites_list name="springcloud2020" />
   </component>
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
@@ -91,7 +89,7 @@
     <property name="RequestMappingsPanelWidth1" value="75" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/cloud-stream-rabbitmq-provider8801/src/main" />
     <property name="nodejs_package_manager_path" value="npm" />
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
@@ -100,21 +98,21 @@
     <property name="show.run.dashboard.notification" value="false" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-eureka-server7001\src\main\java" />
-      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-provider-payment-8001\src\main\resources\mapper" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-stream-rabbitmq-provider8801\src\main" />
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-stream-rabbitmq-provider8801\src\main\resources" />
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020" />
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-config-client3355\src\main" />
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-config-client3355\src\main\resources" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="com.atguigu.springcloud" />
       <recent name="springcloud" />
       <recent name="com.atguigu.springcloud.entities" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020" />
-      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-config-client3355\src\main" />
-      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-config-client3355\src\main\resources" />
-      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-consumerzk-order80\src\main" />
-      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-consumerzk-order80\src\main\resources" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-eureka-server7001\src\main\java" />
+      <recent name="E:\persionWorkspace\learnSource\05\springcloud2020\cloud-provider-payment-8001\src\main\resources\mapper" />
     </key>
   </component>
   <component name="RunAnythingCache">
@@ -134,7 +132,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Spring Boot.ConfigCenterMain3344">
+  <component name="RunManager" selected="Spring Boot.StreamMQMain8801">
     <configuration default="true" type="Applet">
       <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
       <method v="2">
@@ -240,19 +238,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="OrderHystrixMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
-      <module name="cloud-consumer-feign-hystrix-order80" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.atguigu.springcloud.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderHystrixMain80" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="OrderMain80" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
       <module name="cloud-consumer-order80" />
       <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.OrderMain80" />
@@ -301,6 +286,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="StreamMQMain8801" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot" temporary="true" nameIsGenerated="true">
+      <module name="cloud-stream-rabbitmq-provider8801" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.atguigu.springcloud.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.StreamMQMain8801" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8802" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8802" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.StreamMQMain8802" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StreamMQMain8803" type="SpringBootApplicationConfigurationType" factoryName="Spring Boot">
+      <module name="cloud-stream-rabbitmq-consumer8803" />
+      <option name="SPRING_BOOT_MAIN_CLASS" value="com.atguigu.springcloud.StreamMQMain8803" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration default="true" type="TestNG">
       <option name="TEST_OBJECT" value="CLASS" />
       <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
@@ -321,11 +333,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Spring Boot.StreamMQMain8801" />
         <item itemvalue="Spring Boot.OrderConsulMain80" />
         <item itemvalue="JUnit.Test.test" />
         <item itemvalue="Spring Boot.PaymentMain8001" />
         <item itemvalue="Spring Boot.GateWayMain9527" />
-        <item itemvalue="Spring Boot.OrderHystrixMain80" />
       </list>
     </recent_temporary>
   </component>
@@ -351,12 +363,23 @@
       <workItem from="1590457299767" duration="7636000" />
       <workItem from="1590475544415" duration="43000" />
       <workItem from="1590475627296" duration="29539000" />
-      <workItem from="1590634163101" duration="21524000" />
+      <workItem from="1590634163101" duration="22086000" />
+      <workItem from="1590994905312" duration="14326000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.History.Properties">
+    <option name="COLUMN_ORDER">
+      <list>
+        <option value="0" />
+        <option value="2" />
+        <option value="3" />
+        <option value="1" />
+      </list>
+    </option>
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
