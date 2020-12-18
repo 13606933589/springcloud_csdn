@@ -4,18 +4,16 @@ import com.atguigu.springcloud.service.IMessageProvider;
 import org.springframework.amqp.core.AmqpTemplate;
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.cloud.stream.annotation.EnableBinding;
-import org.springframework.integration.support.MessageBuilderFactory;
-import org.springframework.messaging.MessageChannel;
-import org.springframework.integration.support.MessageBuilder;
-import javax.annotation.Resource;
 import org.springframework.cloud.stream.messaging.Source;
+import org.springframework.integration.support.MessageBuilder;
+import org.springframework.messaging.MessageChannel;
 
 import javax.annotation.Resource;
 import java.util.Date;
 import java.util.UUID;
 
 /**
- * @auther 血残微
+ * @author 血残微
  * @create 2020-02-22 10:56
  */
 @EnableBinding(Source.class) //定义消息的推送管道

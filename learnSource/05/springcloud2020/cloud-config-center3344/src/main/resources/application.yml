@@ -11,7 +11,7 @@ spring:
           uri: git@github.com:zzyybs/springcloud-config.git #GitHub上面的git仓库名字
           ####搜索目录
           search-paths:
-            - ConfigCenterMain3344
+            - springcloud-config
       ####读取分支
       label: master
 #rabbitmq相关配置
