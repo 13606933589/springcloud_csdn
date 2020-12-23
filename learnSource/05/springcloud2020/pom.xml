@@ -29,6 +29,8 @@
         <module>cloud-stream-rabbitmq-consumer8802</module>
         <module>cloud-stream-rabbitmq-consumer8803</module>
         <module>cloud-stream-rabbitmq-provider8801</module>
+        <module>nacos-payment-9001</module>
+        <module>nacos-payment-9011</module>
     </modules>
 <packaging>pom</packaging>
 
@@ -103,16 +105,10 @@
                 <version>${lombok.version}</version>
                 <optional>true</optional>
             </dependency>
-            <dependency>
-                <groupId>com.atguigu.springcloud</groupId>
-                <artifactId>cloud-api-commons</artifactId>
-                <version>${project.version}</version>
-            </dependency>
         </dependencies>
     </dependencyManagement>
 
     <build>
-        <defaultGoal>compile</defaultGoal>
         <plugins>
             <plugin>
                 <groupId>org.springframework.boot</groupId>
@@ -124,6 +120,5 @@
             </plugin>
         </plugins>
     </build>
-
 
 </project>
