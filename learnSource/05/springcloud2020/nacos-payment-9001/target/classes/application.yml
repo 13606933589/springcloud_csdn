@@ -8,7 +8,7 @@ spring:
     nacos:
       discovery:
         server-addr: localhost:8848 #配置nacos地址
-
+        #namespace: bc67c773-9db7-4aa5-956b-4ef0acd2395b   #服务注册到不同的namespace
 management:
   endpoints:
     web:
